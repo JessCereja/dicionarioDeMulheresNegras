@@ -13,11 +13,11 @@ Dicionário que lista algumas mulheres negras que fizeram e ainda fazem parte da
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="JavaScript" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156744-8a21399b-f952-4765-b03c-c5feeb2c5fbe.svg">
   
 ## :paperclip:Link:paperclip:
-
+https://jesscereja.github.io/dicionarioDeMulheresNegras/
 
 
 ## Preview
-
+[screen-capture.webm](https://user-images.githubusercontent.com/84471000/226969654-0de6ec02-df4e-40fe-a368-1487bbeccaf7.webm)
 
 
 <div align="center">
